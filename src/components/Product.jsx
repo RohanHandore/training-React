@@ -41,7 +41,7 @@ const Circle = styled.div`
 const Image = styled.img`
     height: 75%;
     z-index: 2;
-    
+    width: 80%;
 `
 
 const Icon = styled.div`

@@ -29,19 +29,22 @@ export const categories = [
         id:1,
         img:"http://bitly.ws/yfyZ",
         title:"Jense pant",
-                                    
+        cat:"women"
+        
     },
     {
         id:2,
         img:"http://bitly.ws/ygCN",
         title:"T-shirts",
-
+        cat:"men"
+        
     },
     {
         id:3,
         img:"http://bitly.ws/ygCW",
         title:"Sunglasses",
-
+        cat:"jense"
+        
     },
 ];
 export const popularProducts = [
